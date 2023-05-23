@@ -1,7 +1,15 @@
 [<center><img src="Images/plink.gif" width="120"/></center>](plink) 
 ## <center> 08-26.github.io </center>
 ### <center> 0&nbsp;8&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;6 <br> o ba fu ro <br> overflowed </center>
-###### <center> born to :3, forced to :<zero-width space>) </center>
+###### <center> born to :3, forced to :<zero-width space>)
+
+---
+## List of links:
+
+[Github](https://github.com/08-26)
+[Twitter](https://twitter.com/ovarflowed)
+[Roblox](https://www.roblox.com/users/24103210/profile)
+[Youtube](https://www.youtube.com/@ovarflowed)
 
 ---
 ## List of works:
