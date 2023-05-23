@@ -19,7 +19,7 @@
 
 ## List of works:
 
-#### Smash Legends X 
+### Smash Legends X 
 
 ###### Solo Developer <i>(November 2022 - )</i>
 
@@ -39,7 +39,7 @@
 
 ---
 
-#### Smash Legends 
+### Smash Legends 
 
 ###### Solo Developer <i>(October 2020 - May 2021)</i>
 
