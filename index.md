@@ -2,7 +2,7 @@
 
 ## <center> 08-26.github.io </center>
 
-### <center> 0&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;6 <br>&nbsp;o ba fu ro <br> overflowed </center>
+### <center> &nbsp;〇&nbsp;八&nbsp;二&nbsp;六 <br>0&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;6 <br>&nbsp;o ba fu ro <br> overflowed </center>
 
 ###### <center> born to :3, forced to :<zero-width space>)
 
