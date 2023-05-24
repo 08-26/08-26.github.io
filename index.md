@@ -26,7 +26,7 @@
 
 [<img src="Images/slxthumb.png" width="450"/>](slxthumb)
 
-## Smash Legends X [(Link)](https://www.roblox.com/games/11586481578/)
+### Smash Legends X [(Link)](https://www.roblox.com/games/11586481578/)
 
 #### Solo full-stack developer <i>(November 2022 - )</i>
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Smash Legends [(Link)](https://www.roblox.com/games/5630129588/)
+### Smash Legends [(Link)](https://www.roblox.com/games/5630129588/)
 
 #### Solo full-stack developer <i>(October 2020 - May 2021)</i>
 
