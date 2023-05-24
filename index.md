@@ -21,7 +21,7 @@
 
 ### Smash Legends X [(Link)](https://www.roblox.com/games/11586481578/)
 
-###### Solo Developer <i>(November 2022 - )</i>
+###### Solo full-stack developer <i>(November 2022 - )</i>
 
 - Solo-developed game (Lua, json)
 - Managed workflow with Github, Visual Studio Code, Rojo
@@ -41,7 +41,7 @@
 
 ### Smash Legends [(Link)](https://www.roblox.com/games/5630129588/)
 
-###### Solo Developer <i>(October 2020 - May 2021)</i>
+###### Solo full-stack Developer <i>(October 2020 - May 2021)</i>
 
 - Solo-developed game (Lua)
 - Managed workflow with Roblox Studio
