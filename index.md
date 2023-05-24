@@ -10,6 +10,9 @@
 
 ## List of links:
 
+[<img src="Images/uni-fast.gif" width="150"/>](unifast)
+
+
 [Github](https://github.com/08-26)
 [Twitter](https://twitter.com/ovarflowed)
 [Roblox](https://www.roblox.com/users/24103210/profile)
@@ -18,6 +21,9 @@
 ---
 
 ## List of works:
+
+[<img src="Images/slxthumb.png" width="450"/>](slxthumb)
+
 
 ### Smash Legends X [(Link)](https://www.roblox.com/games/11586481578/)
 
@@ -41,7 +47,7 @@
 
 ### Smash Legends [(Link)](https://www.roblox.com/games/5630129588/)
 
-###### Solo full-stack Developer <i>(October 2020 - May 2021)</i>
+###### Solo full-stack developer <i>(October 2020 - May 2021)</i>
 
 - Solo-developed game (Lua)
 - Managed workflow with Roblox Studio
