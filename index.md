@@ -26,15 +26,14 @@
 
 [<img src="Images/slxthumb.png" width="450"/>](slxthumb)
 
+## Smash Legends X [(Link)](https://www.roblox.com/games/11586481578/)
 
-### Smash Legends X [(Link)](https://www.roblox.com/games/11586481578/)
-
-###### Solo full-stack developer <i>(November 2022 - )</i>
+#### Solo full-stack developer <i>(November 2022 - )</i>
 
 - Solo-developed game (Lua, json)
 - Managed workflow with Github, Visual Studio Code, Rojo
 
-##### Software used:
+#### Software used:
 
 - Visual Studio Code
 - Github/Github Desktop
@@ -47,14 +46,14 @@
 
 ---
 
-### Smash Legends [(Link)](https://www.roblox.com/games/5630129588/)
+## Smash Legends [(Link)](https://www.roblox.com/games/5630129588/)
 
-###### Solo full-stack developer <i>(October 2020 - May 2021)</i>
+#### Solo full-stack developer <i>(October 2020 - May 2021)</i>
 
 - Solo-developed game (Lua)
 - Managed workflow with Roblox Studio
 
-##### Software used:
+#### Software used:
 
 - Adobe Illustrator CC
 - Adobe Photoshop CC
