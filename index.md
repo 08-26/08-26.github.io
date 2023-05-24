@@ -12,13 +12,11 @@
 
 [<img src="Images/uni-fast.gif" width="150"/>](unifast)
 
-
 [Linktree](https://linktr.ee/ovar) <i>(full list of links here)</i>
-
-[Github](https://github.com/08-26)
-[Twitter](https://twitter.com/ovarflowed)
-[Youtube](https://www.youtube.com/@ovarflowed)
-[Roblox](https://www.roblox.com/users/24103210/profile)
+<br>[Github](https://github.com/08-26)
+<br>[Twitter](https://twitter.com/ovarflowed)
+<br>[Youtube](https://www.youtube.com/@ovarflowed)
+<br>[Roblox](https://www.roblox.com/users/24103210/profile)
 
 <i>(Best reachable via Twitter!)</i>
 
